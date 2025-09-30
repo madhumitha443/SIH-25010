@@ -93,6 +93,8 @@ Mobile app development with voice & offline support
 
 Pilot testing with farmers and feedback loop
 
+<img width="433" height="310" alt="Screenshot 2025-09-30 140042" src="https://github.com/user-attachments/assets/8dad5cca-c474-44f3-9f6b-d069e22c5167" />
+
 ```
 
 ## Feasibility and Viability
