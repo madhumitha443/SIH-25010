@@ -61,9 +61,8 @@ Innovation & Uniqueness:
 Combines AI, IoT, NLP, and Computer Vision into one farmer-friendly tool.
 
 Supports multilingual and voice-first interaction, unlike existing apps.
-
-Focuses on low-bandwidth & offline functionality for rural areas.
 ```
+<img width="433" height="310" alt="Screenshot 2025-09-30 140042" src="https://github.com/user-attachments/assets/8629e630-75dd-4613-bf1f-684e20767df4" />
 
 ## Technical Approach
 ```
