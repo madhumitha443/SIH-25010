@@ -62,7 +62,7 @@ Combines AI, IoT, NLP, and Computer Vision into one farmer-friendly tool.
 
 Supports multilingual and voice-first interaction, unlike existing apps.
 ```
-<img width="433" height="310" alt="Screenshot 2025-09-30 140042" src="https://github.com/user-attachments/assets/8629e630-75dd-4613-bf1f-684e20767df4" />
+
 
 ## Technical Approach
 ```
@@ -92,9 +92,8 @@ Mobile app development with voice & offline support
 
 Pilot testing with farmers and feedback loop
 
-<img width="433" height="310" alt="Screenshot 2025-09-30 140042" src="https://github.com/user-attachments/assets/8dad5cca-c474-44f3-9f6b-d069e22c5167" />
-
 ```
+<img width="433" height="310" alt="Screenshot 2025-09-30 140042" src="https://github.com/user-attachments/assets/8629e630-75dd-4613-bf1f-684e20767df4" />
 
 ## Feasibility and Viability
 ```
